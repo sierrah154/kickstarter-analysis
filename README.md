@@ -4,8 +4,7 @@ Analyzing Kickstarter Campaign data to uncover trends and generate insights into
 ## Objective
 Provide visual feedback to Louise what will help her establish a realistic goal, timeline, and location for her Kickstarter campaign, for her upcoming play *Fever*, to be successful.
 
-![Figure 1. All Category Outcomes-United States](https://github.com/sierrah154/kickstarter-
-  analysis/blob/master/Parent%20Category%20Outcomes_United%20States%20(PC).png)
+![Figure 1. All Category Outcomes-United States](https://github.com/sierrah154/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes_United%20States%20(PC).png)
   
   Figure 1 shows us that of all caegories in the United States, "Theater" Kickstarter campaigns have had the most success.
   
